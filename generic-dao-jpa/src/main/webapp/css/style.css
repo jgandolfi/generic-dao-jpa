@@ -1,0 +1,27 @@
+.box {
+	border: 2px solid black;
+	font-size: 12px;
+}
+
+.box h2 {
+	background-color: black;
+	text-transform: uppercase;
+	color: white;
+	font-size: 14px;
+	margin: 0px;
+	padding: 5px;
+}
+
+.box form {
+	padding: 5px;
+}
+
+label {
+	font-weight: bold;
+	display: inline-block;
+	width: 150px;
+}
+
+.box div {
+	margin-bottom: 3px;
+}
