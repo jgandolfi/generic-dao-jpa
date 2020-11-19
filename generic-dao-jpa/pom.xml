@@ -10,7 +10,7 @@
   
 	<properties>
 		<junit.version>4.8.2</junit.version>
-		<hibernate.version>3.6.6.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 		<spring.version>3.1.1.RELEASE</spring.version>
 		<aspectj.version>1.5.4</aspectj.version>
 		<c3p0.version>0.9.1.2</c3p0.version>
