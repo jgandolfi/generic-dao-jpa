@@ -10,7 +10,7 @@
   
 	<properties>
 		<junit.version>4.8.2</junit.version>
-		<hibernate.version>3.6.6.Final</hibernate.version>
+		<hibernate.version>5.1.17.Final</hibernate.version>
 		<spring.version>3.1.1.RELEASE</spring.version>
 		<aspectj.version>1.5.4</aspectj.version>
 		<c3p0.version>0.9.1.2</c3p0.version>
@@ -234,7 +234,7 @@
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-log4j12</artifactId>
-			<version>1.6.4</version>
+			<version>1.7.34</version>
 		</dependency>
 
 		<!-- javax.annotation (@PostConstruct) -->
